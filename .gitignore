@@ -4,5 +4,6 @@
 .settings/
 target/
 *~
+*.db
 *.iml
 *.tmp
