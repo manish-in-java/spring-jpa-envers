@@ -1,6 +1,4 @@
-[![Build status](https://travis-ci.org/manish-in-java/spring-jpa-envers.svg)](https://travis-ci.org/manish-in-java/spring-jpa-envers)
-
-# Overview
+# Overview [![Build status](https://travis-ci.org/manish-in-java/spring-jpa-envers.svg)](https://travis-ci.org/manish-in-java/spring-jpa-envers)
 This application demonstrates using [Hibernate Envers](http://hibernate.org/orm/envers/)
 with [Spring Data JPA](http://projects.spring.io/spring-data-jpa/) for auditing and
 versioning of database records.
